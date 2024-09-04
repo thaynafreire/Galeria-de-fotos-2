@@ -19,5 +19,5 @@ O objetivo desse projeto é colocar em prática o conhecimento adquirido sobre a
 ---
 
 ## Autor
-- [Thayná de Oliveira Freire](www.linkedin.com/in/thayná-freire-863696297)
+- [Thayná de Oliveira Freire](https://www.linkedin.com/in/thayn%C3%A1-freire-863696297/)
 
